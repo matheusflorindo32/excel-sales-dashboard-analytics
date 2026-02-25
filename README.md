@@ -1,80 +1,108 @@
-📊 Dashboard de Vendas em Excel
-📌 Sobre o Projeto
+# 📊 Sales Dashboard in Excel
 
-Este projeto consiste na criação de um Dashboard de Vendas desenvolvido no Microsoft Excel com o objetivo de transformar dados brutos em informações visuais estratégicas para análise de desempenho comercial.
+## 🧠 Project Overview
 
-O dashboard permite:
+This project consists of the development of a Sales Dashboard built entirely in Microsoft Excel, designed to transform raw sales data into clear, strategic, and decision-oriented visual insights.
 
-📈 Visualização do desempenho de vendas
+The objective is to demonstrate how Excel can be used as a powerful Business Intelligence tool for data organization, analysis, and visualization.
 
-📊 Análise por período
+---
 
-🧾 Indicadores de receita
+## 🎯 Purpose
 
-📦 Controle de produtos
+The dashboard was created to:
 
-🎯 Suporte à tomada de decisão baseada em dados
+- Monitor overall sales performance  
+- Analyze revenue trends over time  
+- Compare product performance  
+- Evaluate regional results  
+- Support data-driven decision making  
 
-🗂️ Dados Utilizados
+---
 
-A base de dados contém informações como:
+## 📂 Dataset
 
-Data da venda
+The dataset contains structured sales information, including:
 
-Produto
+- Order Date  
+- Product Name  
+- Category  
+- Quantity Sold  
+- Revenue  
+- Region  
 
-Categoria
-
-Quantidade vendida
-
-Receita
-
-Região
-
-Arquivo base utilizado:
+File used:
 
 base.xlsx
-🛠️ Tecnologias Utilizadas
 
-Microsoft Excel
 
-Tabelas Dinâmicas
+---
 
-Segmentação de Dados
+## 🛠 Tools & Techniques Applied
 
-Gráficos Dinâmicos
+- Microsoft Excel  
+- Pivot Tables  
+- Pivot Charts  
+- Data Segmentation (Slicers)  
+- Conditional Formatting  
+- Structured Tables  
+- KPI Calculations  
+- Excel Functions (SUM, IF, XLOOKUP/VLOOKUP, AVERAGE, etc.)
 
-Fórmulas (SOMA, PROCV/XLOOKUP, SE, etc.)
+---
 
-📷 Estrutura do Dashboard
+## 📈 Dashboard Features
 
-O painel apresenta:
+The dashboard includes:
 
-Receita Total
+- Total Revenue KPI  
+- Total Units Sold  
+- Performance by Product  
+- Performance by Region  
+- Time-based Sales Analysis  
+- Interactive filters for dynamic exploration  
 
-Quantidade Vendida
+All visualizations update automatically when filters are applied.
 
-Ticket Médio
+---
 
-Filtros interativos
+## ▶️ How to Use
 
-Gráficos comparativos
+1. Download the `.xlsx` file from this repository  
+2. Open it using Microsoft Excel (2016 or newer recommended)  
+3. Navigate to the Dashboard sheet  
+4. Use the slicers to interact with the data  
+5. Update the base dataset if you wish to simulate new scenarios  
 
-▶️ Como Reproduzir
+---
 
-Baixe o arquivo .xlsx
+## 📌 Project Structure
 
-Abra no Excel (versão 2016+ recomendada)
 
-Utilize os filtros para explorar os dados
+├── base.xlsx
 
-Atualize a base se desejar testar novos cenários
+├── Dashboard_Sistema_Pronto.xlsx
 
-🎯 Objetivo do Projeto
+└── README.md
 
-Transformar dados brutos em inteligência visual aplicada à tomada de decisão.
 
-👨‍💻 Autor
+---
 
-Matheus Florindo de Deus
-Projeto desenvolvido para o desafio DIO.
+## 🚀 Learning Outcome
+
+This project reinforces the importance of:
+
+- Data organization  
+- Visual communication  
+- KPI structuring  
+- Analytical thinking  
+- Business-oriented reporting  
+
+It demonstrates how Excel can be leveraged as a practical Business Intelligence solution.
+
+---
+
+## 👨‍💻 Author
+
+**Matheus Florindo de Deus**  
+Developed as part of the DIO challenge.

@@ -1,5 +1,21 @@
 # 📊 Sales Dashboard in Excel
 
+## 📸 Executive Dashboard Preview
+
+Below is the executive visual representation of the Sales Performance Dashboard developed for the Xbox Game Pass 2024 analysis.
+
+This preview demonstrates:
+
+- Strategic KPI structuring  
+- Executive-level layout organization  
+- Business Intelligence visualization standards  
+- Data-driven performance analysis  
+- SaaS-style dashboard aesthetics  
+
+The dashboard was designed to consolidate all metrics into a single landscape executive view, ensuring clarity, symmetry, and professional reporting standards.
+
+![Xbox Game Pass Dashboard 2024](xbox-gamepass-dashboard-2024.png)
+
 ## 🧠 Project Overview
 
 This project consists of the development of a Sales Dashboard built entirely in Microsoft Excel, designed to transform raw sales data into clear, strategic, and decision-oriented visual insights.

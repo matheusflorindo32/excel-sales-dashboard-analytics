@@ -14,7 +14,7 @@ This preview demonstrates:
 
 The dashboard was designed to consolidate all metrics into a single landscape executive view, ensuring clarity, symmetry, and professional reporting standards.
 
-![Xbox Game Pass Dashboard 2024](xbox-gamepass-dashboard-2024.png)
+![Xbox Game Pass Dashboard 2024](./xbox-gamepass-dashboard-2024.jpg)
 
 ## 🧠 Project Overview
 
